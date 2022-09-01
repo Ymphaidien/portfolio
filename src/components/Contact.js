@@ -35,7 +35,7 @@ export default function Conctact() {
                         marginHeight={0}
                         marginWidth={0}
                         style={{ filter: "opacity(0.7)" }}
-                        src="https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d225.1016563840493!2d92.170192080951!3d25.484144254524285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe90a745db111b05e!2sSutong%20Labs!5e0!3m2!1sen!2sin!4v1662001836457!5m2!1sen!2sin"
                     /> }
                     <div className='bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md'>
                         <div className='lg:w-1/2 px-6'>

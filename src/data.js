@@ -27,7 +27,7 @@ export const projects = [
     title: "Epic Todo App",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Simple CRUD application using React Hooks",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
@@ -56,10 +56,10 @@ export const skills = [
     title: "Programming Languages",
     list: [
      "Java",
-     "JavaScript",
      "Python",
+     "C",
      "C++",
-     "C"
+     "JavaScript",
     ]
   },
 
@@ -67,14 +67,12 @@ export const skills = [
    { 
     title: "Web Development",
     list: [ 
-      "Java",
-      "JavaScript",
-      "Node.js",
-      "Django",
+      "Java Spring",
+      "Python Django",
       "Django REST Framework",
+      "JavaScript Node.js",
       "React",
       "Express.js",
-      "MongoDB",
       "Material UI",
       "Tailwind CSS"
     ]
@@ -83,9 +81,9 @@ export const skills = [
   {
     title: "Databases",
     list: [
+    "MySQL",
     "MongoDB",
     "Postgresql",
-    "MySQL"
   ]},
 
 
@@ -107,8 +105,8 @@ export const skills = [
     "Android Development",
     "Data Analysis & Visualization",
     "AI & Machine Learning",
-    "Automation",
-    "Linux"]
+    "Linux",
+    "Automation",]
   }
 
 ];
